@@ -2,7 +2,7 @@
 
 ## try-tapioca-for-dsl
 ### 概要
-- 発表「Demystifying DSLs for better analysis and understanding」で紹介した(tapioca)[https://github.com/Shopify/tapioca]を試したコードです。
+- 発表「Demystifying DSLs for better analysis and understanding」で紹介した[tapioca](https://github.com/Shopify/tapioca)を試したコードです。
 ### 中身
 - ruby: 2.7.4
 - rails: 6.1.4.1
