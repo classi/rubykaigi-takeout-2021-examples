@@ -1,0 +1,16 @@
+interface _RbsRailsPathHelpers
+  def rails_info_properties_path: (*untyped) -> String
+  def rails_info_routes_path: (*untyped) -> String
+  def rails_info_path: (*untyped) -> String
+  def tasks_path: (*untyped) -> String
+  def new_task_path: (*untyped) -> String
+  def edit_task_path: (*untyped) -> String
+  def task_path: (*untyped) -> String
+  def rails_info_properties_url: (*untyped) -> String
+  def rails_info_routes_url: (*untyped) -> String
+  def rails_info_url: (*untyped) -> String
+  def tasks_url: (*untyped) -> String
+  def new_task_url: (*untyped) -> String
+  def edit_task_url: (*untyped) -> String
+  def task_url: (*untyped) -> String
+end
