@@ -13,3 +13,15 @@ gems:
   # It's unnecessary if you don't use rbs as a library.
   - name: rbs
     ignore: true
+  - name: steep
+    ignore: true
+  - name: pathname
+  - name: logger
+  - name: mutex_m
+  - name: date
+  - name: monitor
+  - name: singleton
+  - name: tempfile
+  - name: tsort
+  - name: time
+  - name: set
