@@ -69,6 +69,8 @@ class Task < ApplicationRecord
   def restore_updated_at!: () -> void
   def clear_updated_at_change: () -> void
 
+  def id_string: () -> String
+
   module GeneratedRelationMethods
   end
 
